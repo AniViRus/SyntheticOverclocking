@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 2,
-	"VersionName": "2.1.0",
+	"Version": 3,
+	"VersionName": "3.0.1",
 	"FriendlyName": "Synthetic Overclocking",
 	"Description": "Adds synthetic versions of Power Shards and Somersloops",
 	"Category": "Modding",
@@ -21,6 +21,6 @@
 			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "2.1.0",
+	"SemVersion": "3.0.1",
 	"GameVersion": ">=416835"
 }
